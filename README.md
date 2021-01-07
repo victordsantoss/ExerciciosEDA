@@ -46,13 +46,15 @@ Uma fila é uma estrutura de dados dinâmica que admite remoção de elementos e
 Para o bom entendimento dos exemplos e dos exercícios é necessário conhecimentos básicos de linguagem C e alocação dinâmica de memória. 
 
 ## :computer: Como executar os programas usando o sistema Linux?
-> Primero passo: Clonar este repositório
+> Clonar este repositório
      
-    git clone https://github.com/victordsantoss/estrutura_de_dados.git
-> Acesse a pasta raiz do repositório
+    git clone https://github.com/victordsantoss/estrutura-de-dados-1.git
+> Acessar a pasta raiz do repositório
 
-    cd ../../estrutura_de_dados
-> Escolha um arquivo de preferência e execute o processo de compilação e execução
+    cd ../../estrutura-de-dados-1
+> Escolher um arquivo de preferência e execute o processo de compilação
     
     gcc nome_arquivo.c -o bin
+> Rodar o processo de execução
+
     ./bin
