@@ -1,4 +1,4 @@
-# :computer: Estrutura de Dados 
+# :computer: Estrutura de Dados 1
 Estudos realizados pela disciplina de Estrutura de Dados da Faculdade do Gama - UnB.
 
 ## :warning: O que será visto? 
