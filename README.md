@@ -5,7 +5,8 @@ Estudos realizados pela disciplina de Estrutura de Dados da Faculdade do Gama - 
 1. Lista Encadeada
 2. Pilha
 3. Fila
-4. Alguns Exercícios trabalhados na disciplina
+4. Recursividade
+5. Alguns Exercícios trabalhados na disciplina
 
 ## :hammer_and_wrench: Qual linguagem foi usada? 
 Todos os exemplos foram realizados em linguagem C.
@@ -42,6 +43,24 @@ Uma fila é uma estrutura de dados dinâmica que admite remoção de elementos e
     * Redimensionamento
     * Finalização da Fila
     * :heavy_plus_sign: Implementação de cada um dos tópicos acima para Fila com Vetor, Fila Circular Endadeada e Fila Circular com Redimensionamento. 
+## :question: Recursividade
+Uma função recursiva é uma função que chama ela mesma. Um problema possui uma solução recursiva, quando é possível resolvê-lo aplicando a mesma técnica em uma instância menor, combinando a solução dessa instância com algum elemento da instância original, para assim, obter a solução desejada.
+
+1. Quais algoritmos serão vistos?
+   * Cálculo de potência Aᵇ.
+   * Fatorial
+   * Maior elemento em um vetor.   
+   * Régua Inglesa.
+   * Somar dígitos de um número N.
+   * F91.
+   * Rumo aos 9s.
+   * Pares de caracteres.
+   * String ao contrário.
+   * Fibonacci
+2. Algoritmos de ordenação recursivos 
+   * Insertion Sort
+   * Selection Sort 
+    
 ## :warning: Observações
 Para o bom entendimento dos exemplos e dos exercícios é necessário conhecimentos básicos de linguagem C e alocação dinâmica de memória. 
 
