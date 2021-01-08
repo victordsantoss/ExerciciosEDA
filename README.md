@@ -6,7 +6,8 @@ Estudos realizados pela disciplina de Estrutura de Dados da Faculdade do Gama - 
 2. Pilha
 3. Fila
 4. Recursividade
-5. Alguns Exercícios trabalhados na disciplina
+5. Algoritmos Elementares de Busca
+6. Alguns Exercícios trabalhados na disciplina
 
 ## :hammer_and_wrench: Qual linguagem foi usada? 
 Todos os exemplos foram realizados em linguagem C.
@@ -60,7 +61,13 @@ Uma função recursiva é uma função que chama ela mesma. Um problema possui u
 2. Algoritmos de ordenação recursivos 
    * Insertion Sort
    * Selection Sort 
-    
+## :question: Algoritmos Elementares de Busca
+1. Quais algoritmos serão vistos?
+    * Busca Sequencial
+        - Algoritmo que implementa uma busca Sequencial por um determinado elemento em um vetor ordenado, com complexidade de O(n).
+    * Busca Binária 
+        - Algoritmo que implementa o paradigma de Divisão e Conquista para encontrar um determinado elemento em um vetor ordenado, com complexidade de O(log(n)).
+
 ## :warning: Observações
 Para o bom entendimento dos exemplos e dos exercícios é necessário conhecimentos básicos de linguagem C e alocação dinâmica de memória. 
 
