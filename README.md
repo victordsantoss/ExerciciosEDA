@@ -1,5 +1,5 @@
 # :computer: Estrutura de Dados 1
-Estudos realizados pela disciplina de Estrutura de Dados da Faculdade do Gama - UnB.
+Estudos elementares realizados em linguagem C sobre o ramo de Estrutura de dados pela Universidade de Brasília - UnB.
 
 ## :warning: O que será visto? 
 1. Lista Encadeada
